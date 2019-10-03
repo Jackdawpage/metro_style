@@ -307,7 +307,7 @@ body{
     .ads{
         width: 100%;
         height: auto;
-        margin-bottom 30px;
+        margin-bottom:as 30px;
     }
     .cards{
         padding: 30px;
